@@ -1,5 +1,5 @@
 #Vitoria Bezerra Lopes
-#Receba os coeficientes A, B e C de uma equação do 2º grau (AX²+BX+C=0). Calcule e mostre as raízes reais (considerar que a equação possue2 raízes).
+#Receba 3 coeficientes A, B e C de uma equação do 2º grau da fórmula AX²+BX+C=0. Verifique e mostre a existência de raízes reais e se caso exista, calcule e mostre.
 
 def equacao_segundo_grau(A,B,C):
   delta = (B**2)-((4*A)*C)
